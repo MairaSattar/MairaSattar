@@ -1,15 +1,15 @@
 
-# 👋 Hi, I'm Maira Sattar
+# ⋆. 𐙚 ˚ 𝐌𝐚𝐢𝐫𝐚 𝐒𝐚𝐭𝐭𝐚𝐫
 
-**💻 Software Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner**
+**𖤓 ᴀꜱᴘɪʀɪɴɢ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ☁︎ ᴛᴇᴄʜ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ | ⊹ ࣪ ˖ ʟɪꜰᴇʟᴏɴɢ ʟᴇᴀʀɴᴇʀ**
 
 Welcome to my GitHub profile! I'm passionate about building impactful software, solving real-world problems with code, and always pushing my skills to the next level.
 
 ---
 
-## 🛠️ Tech Stack
+## ✔ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
-**Languages:**  
+**ʟᴀɴɢᴜᴀɢᴇꜱ:**  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software, 
 
 ---
 
-## 📈 GitHub Stats
+## 〽 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MairaSattar&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
@@ -36,14 +36,14 @@ Welcome to my GitHub profile! I'm passionate about building impactful software, 
 
 ---
 
-## 🔍 Currently Working On
+## ✎ 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐎𝐧
 
-- 🔧 CafeAcademia – An interactive, cafe-themed study website that provides the resources to help you focus. 
-- 🧠 Currently expanding and refining my JavaScript skills
-- 🤝 Looking to collaborate on interesting open-source or freelance projects
+- CafeAcademia – An interactive, cafe-themed study website that provides the resources to help you focus. 
+- Expanding and refining my JavaScript skills
+- Looking to collaborate on interesting open-source or freelance projects in the future
 ---
 
-## 📫 Let's Connect!
+## ☎︎ 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://your-portfolio.com)
@@ -52,4 +52,4 @@ Welcome to my GitHub profile! I'm passionate about building impactful software, 
 
 ---
 
-⭐️ *Thanks for visiting! Feel free to check out my repositories and drop a star if you find something cool!*
+★ *Thanks for visiting! Feel free to check out my repositories and drop a star if you find something cool!*
