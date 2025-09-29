@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software, 
 ## ☎︎ 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://mairasattar.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mairasattar08@gmail.com)
 
 
